@@ -46,8 +46,8 @@ section {
   margin-top: 20px
 }
 
-#about, #ml-papers, #personal-interests {
-  padding-top: 50px;
+#about, #ml-papers, #research-interests, #personal-interests {
+  padding-top: 20px;
 }
 
 .header {
