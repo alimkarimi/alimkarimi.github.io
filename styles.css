@@ -43,7 +43,8 @@ h2 {
 
 section {
   margin-bottom: 20px; /* Adjust this to reduce the space between sections */
-  margin-top: 20px
+  margin-top: 20px;
+  text-align: center;
 }
 
 #about, #ml-papers, #research-interests, #personal-interests {
