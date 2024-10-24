@@ -16,6 +16,12 @@ body {
   margin-top: 20px; /* Adjust space above the image */
 }
 
+.profile-image {
+  width: 150px; /* Adjust the size of the image */
+  height: auto;
+  border-radius: 50%; /* Make the image circular */
+}
+
 .content {
   width: 80%;
   max-width: 800px;
