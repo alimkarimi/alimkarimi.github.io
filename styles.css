@@ -10,6 +10,12 @@ body {
   display: none; /* Hide the sidebar if you want a single-page style */
 }
 
+/* Profile image container */
+.profile-container {
+  text-align: center;
+  margin-top: 20px; /* Adjust space above the image */
+}
+
 .content {
   width: 80%;
   max-width: 800px;
